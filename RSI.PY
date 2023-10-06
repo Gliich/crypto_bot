@@ -26,7 +26,6 @@ data.dropna()
 newdf = pd.DataFrame()
 newdf['Close'] = df['Close']
 newdf['RSI'] = data
-newdf
 
 
 
